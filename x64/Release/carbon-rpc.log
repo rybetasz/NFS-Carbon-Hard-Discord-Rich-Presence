@@ -1,0 +1,160 @@
+﻿  dllmain.cpp
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(7,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(7,16): error C2864: 'DALCareer::GetCash': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(7,16): message : tür 'bool (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(8,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(8,16): error C2864: 'DALCareer::GetTutorialComplete': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(8,16): message : tür 'bool (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(9,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(9,16): error C2864: 'DALCareer::GetProfileName': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(9,16): message : tür 'bool (__cdecl *)(const char *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(10,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(10,16): error C2864: 'DALCareer::GetCareerPercentComplete': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(10,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(11,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(11,16): error C2864: 'DALCareer::GetGamePercentComplete': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALCareer.h(11,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(7,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(7,16): error C2864: 'DALChallenge::GetChallengeSeriesCompletePercent': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(7,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(8,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(8,16): error C2864: 'DALChallenge::GetChallengeDebugCarName': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(8,16): message : tür 'bool (__cdecl *)(const char *,int,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(9,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(9,16): error C2864: 'DALChallenge::GetChallengeCarNameHash': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALChallenge.h(9,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALVehicle.h(7,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALVehicle.h(7,16): error C2864: 'DALVehicle::GetHeat': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALVehicle.h(7,16): message : tür 'bool (__cdecl *)(float *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(7,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(7,16): error C2864: 'DALEvent::GetEventNumRacers': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(7,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(8,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(8,16): error C2864: 'DALEvent::GetIsPursuit': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(8,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(9,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(9,16): error C2864: 'DALEvent::GetEventCanyonPhase': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(9,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(10,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(10,16): error C2864: 'DALEvent::GetEventNumLaps': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(10,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(11,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(11,16): error C2864: 'DALEvent::GetIsInFreeRoam': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(11,16): message : tür 'bool (__cdecl *)(bool *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(12,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(12,16): error C2864: 'DALEvent::GetEventType': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(12,16): message : tür 'bool (__cdecl *)(RaceType *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(13,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(13,16): error C2864: 'DALEvent::GetEventHash': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(13,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(14,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(14,16): error C2864: 'DALEvent::GetEventName': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(14,16): message : tür 'bool (__cdecl *)(const char *,int,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(15,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(15,16): error C2864: 'DALEvent::GetEventIsCareer': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(15,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(16,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(16,16): error C2864: 'DALEvent::GetEventIsChallenge': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALEvent.h(16,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Fe\FeGarageMain.h(23,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Fe\FeGarageMain.h(23,16): error C2864: 'FeGarageMain::GetSafehouseType': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Fe\FeGarageMain.h(23,16): message : tür 'SafehouseType (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(9,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(9,85): error C2864: 'GCareerZone::GetName': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(9,85): message : tür 'const char *(__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(10,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(10,16): error C2864: 'GCareerZone::GetHeatLevel': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\Game\GCareerZone.h(10,16): message : tür 'int (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(7,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(7,16): error C2864: 'DALPursuit::GetCooldownTimeRequired': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(7,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(8,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(8,16): error C2864: 'DALPursuit::GetCooldownTimeRemaining': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(8,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(9,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(9,16): error C2864: 'DALPursuit::GetCostToState': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(9,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(10,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(10,16): error C2864: 'DALPursuit::GetBounty': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(10,16): message : tür 'bool (__cdecl *)(float *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(11,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(11,16): error C2864: 'DALPursuit::GetIsPlayerBusted': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(11,16): message : tür 'bool (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(12,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(12,16): error C2864: 'DALPursuit::GetNumCopsDestroyed': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALPursuit.h(12,16): message : tür 'bool (__cdecl *)(int *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALOptions.h(12,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALOptions.h(12,16): error C2864: 'DALOptions::GetSpeedoUnits': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALOptions.h(12,16): message : tür 'bool (__cdecl *)(DALOptions::UnitType *)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(12,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(12,16): error C2864: 'DALRacer::GetCanyonHudScore': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(12,16): message : tür 'bool (__cdecl *)(float *,int,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(13,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(13,16): error C2864: 'DALRacer::GetCanyonDistanceBehind': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(13,16): message : tür 'bool (__cdecl *)(float *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(14,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(14,16): error C2864: 'DALRacer::GetDriftTotalPoints': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(14,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(15,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(15,16): error C2864: 'DALRacer::GetPercentCompleted': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(15,16): message : tür 'bool (__cdecl *)(float *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(16,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(16,16): error C2864: 'DALRacer::GetRemainTime': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(16,16): message : tür 'bool (__cdecl *)(float *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(17,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(17,16): error C2864: 'DALRacer::GetTotalSpeedtrapSpeed': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(17,16): message : tür 'bool (__cdecl *)(float *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(18,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(18,16): error C2864: 'DALRacer::GetLapsCompleted': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(18,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(19,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(19,16): error C2864: 'DALRacer::GetIsFinished': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(19,16): message : tür 'bool (__cdecl *)(int *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(21,16): error C7525: satır içi değişkenler en az '/std:c++17' gerektirir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(21,16): error C2864: 'DALRacer::GetCurrCarName': sınıf içi başlatıcısı olan bir statik veri üyesi geçici olmayan bir const tamsayı türüne sahip olmalıdır veya 'inline' olarak belirtilmelidir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\Carbon\DAL\DALRacer.h(21,16): message : tür 'bool (__cdecl *)(const char *,int)' şeklindedir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(88,58): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(125,54): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'int *' öğesine dönüştürme
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(157,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(159,36): warning C4474: 'sprintf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(159,36): message : yer tutucular ve bunların parametreleri 0 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(186,17): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(243,15): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(244,17): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(260,18): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(295,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(311,15): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(312,17): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(63,76): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'const char *' öğesine dönüştürme
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(64,25): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(197,29): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(204,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(212,28): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(217,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(225,27): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(230,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(241,32): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(246,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(256,31): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(261,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(276,28): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(289,26): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(360,64): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'const char *' öğesine dönüştürme
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(378,32): error C2039: 'contains': bir 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(65): message : 'std::map<int,const char *,std::less<int>,std::allocator<std::pair<const int,const char *>>>' bildirimine bakın
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(383,68): warning C4312: 'tür dönüştürme': 'int' öğesinden daha büyük boyutlu 'const char *' öğesine dönüştürme
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\dllmain.cpp(387,21): error C2039: 'contains': bir 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' üyesi değil
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\cars.h(5): message : 'std::map<std::string,const char *,std::less<std::string>,std::allocator<std::pair<const std::string,const char *>>>' bildirimine bakın

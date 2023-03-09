@@ -1,0 +1,17 @@
+﻿  dllmain.cpp
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(157,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(159,36): warning C4474: 'sprintf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(159,36): message : yer tutucular ve bunların parametreleri 0 değişen sayıda bağımsız değişken bekliyor, ancak 1 tane sağlandı
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(186,17): warning C4244: 'return': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(243,15): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(244,17): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(260,18): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(295,16): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(311,15): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Alperen\Desktop\carbon-rpc-main\carbon-rpc\functions.h(312,17): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  1 of 419 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  carbon-rpc.vcxproj -> C:\Users\Alperen\Desktop\carbon-rpc-main\Release\carbon-rpc.asi
